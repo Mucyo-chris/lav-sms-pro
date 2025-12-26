@@ -2,7 +2,7 @@
 …or create a new repository on the command line<br>
 echo "# lav-sms-pro" >> README.md<br>
 git init<br>
-git add README.md
+git add README.md<br>
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Mucyo-chris/lav-sms-pro.git
