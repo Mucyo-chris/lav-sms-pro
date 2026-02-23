@@ -1,7 +1,7 @@
 # lav-sms-pro
 
 …or create a new repository on the command line<br>
-echo "# lav-sms-pro" >> README.md<br>
+echo "# lav-sms-pro" >> README.md<br> 
 git init<br> 
 git add README.md<br>
 git commit -m "first commit"<br> 
